@@ -1,0 +1,8 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+
+# VSCode 与 Code Runner 的临时文件
+.vscode/
+tempCodeRunnerFile.c
